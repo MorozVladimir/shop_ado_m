@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstFromDatabase", "CodeFirstFromDatabase\CodeFirstFromDatabase.csproj", "{2F4E767C-B15F-4815-BE67-6D99E4F74F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopAdo_with_Photo", "ShopAdo_with_Photo\ShopAdo_with_Photo.csproj", "{D95E46B0-2231-4A0E-A907-92B2812DFEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F4E767C-B15F-4815-BE67-6D99E4F74F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4E767C-B15F-4815-BE67-6D99E4F74F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4E767C-B15F-4815-BE67-6D99E4F74F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4E767C-B15F-4815-BE67-6D99E4F74F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95E46B0-2231-4A0E-A907-92B2812DFEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95E46B0-2231-4A0E-A907-92B2812DFEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95E46B0-2231-4A0E-A907-92B2812DFEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95E46B0-2231-4A0E-A907-92B2812DFEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

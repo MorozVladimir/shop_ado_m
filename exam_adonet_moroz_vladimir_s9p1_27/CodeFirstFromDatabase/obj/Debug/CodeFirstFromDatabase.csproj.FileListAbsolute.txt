@@ -1,0 +1,52 @@
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.dll.config
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.dll
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.pdb
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.dll
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.xml
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.csprojResolveAssemblyReference.cache
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.dll
+c:\users\iterator_vlad\documents\visual studio 2015\Projects\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.pdb
+D:\study\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.dll.config
+D:\study\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.dll
+D:\study\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.pdb
+D:\study\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.dll
+D:\study\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.SqlServer.dll
+D:\study\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.xml
+D:\study\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.SqlServer.xml
+D:\study\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.csprojResolveAssemblyReference.cache
+D:\study\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.dll
+D:\study\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.pdb
+d:\study\шаг полустационар\3-й семестр\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.dll.config
+d:\study\шаг полустационар\3-й семестр\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.dll
+d:\study\шаг полустационар\3-й семестр\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.pdb
+d:\study\шаг полустационар\3-й семестр\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.dll
+d:\study\шаг полустационар\3-й семестр\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.SqlServer.dll
+d:\study\шаг полустационар\3-й семестр\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.xml
+d:\study\шаг полустационар\3-й семестр\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.SqlServer.xml
+d:\study\шаг полустационар\3-й семестр\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.csprojResolveAssemblyReference.cache
+d:\study\шаг полустационар\3-й семестр\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.dll
+d:\study\шаг полустационар\3-й семестр\wf\homework_wf_3_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.pdb
+D:\study\шаг полустационар\3-й семестр\adonet\exam\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.dll.config
+D:\study\шаг полустационар\3-й семестр\adonet\exam\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.dll
+D:\study\шаг полустационар\3-й семестр\adonet\exam\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.pdb
+D:\study\шаг полустационар\3-й семестр\adonet\exam\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.dll
+D:\study\шаг полустационар\3-й семестр\adonet\exam\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.SqlServer.dll
+D:\study\шаг полустационар\3-й семестр\adonet\exam\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.xml
+D:\study\шаг полустационар\3-й семестр\adonet\exam\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.SqlServer.xml
+D:\study\шаг полустационар\3-й семестр\adonet\exam\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.csprojResolveAssemblyReference.cache
+D:\study\шаг полустационар\3-й семестр\adonet\exam\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.dll
+D:\study\шаг полустационар\3-й семестр\adonet\exam\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.pdb
+C:\Users\vlad\Downloads\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.dll.config
+C:\Users\vlad\Downloads\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.dll
+C:\Users\vlad\Downloads\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\CodeFirstFromDatabase.pdb
+C:\Users\vlad\Downloads\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.dll
+C:\Users\vlad\Downloads\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad\Downloads\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.xml
+C:\Users\vlad\Downloads\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad\Downloads\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.csprojAssemblyReference.cache
+C:\Users\vlad\Downloads\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Downloads\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.csproj.CopyComplete
+C:\Users\vlad\Downloads\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.dll
+C:\Users\vlad\Downloads\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\exam_adonet_moroz_vladimir_s9p1_27\CodeFirstFromDatabase\obj\Debug\CodeFirstFromDatabase.pdb
